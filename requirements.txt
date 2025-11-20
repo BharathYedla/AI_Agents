@@ -1,0 +1,12 @@
+numpy
+pandas
+nltk
+gensim
+tqdm
+scikit-learn
+matplotlib
+seaborn
+scipy
+adjustText
+umap-learn
+jupyter
