@@ -11,7 +11,7 @@ adjustText
 umap-learn
 jupyter
 ipykernel
-pywin32
+
 
 langchain
 langchain-huggingface
@@ -25,3 +25,9 @@ langchain-community
 numexpr
 youtube_search
 wikipedia
+
+tiktoken
+lxml
+sentencepiece
+llama-index
+datasets
